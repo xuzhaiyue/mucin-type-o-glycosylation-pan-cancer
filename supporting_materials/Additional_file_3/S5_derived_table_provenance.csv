@@ -1,0 +1,4 @@
+output,source,source_sha256,rule
+S5D_RefA_patient_proportions.csv,${PDAC_CAF_CHEMO_ROOT}/runs/2026-03-19_refA_tme/tables/TME_umap_table.tsv.gz,68575cd51ea4c8dbada1aee2b99a1564ca7a6c4d9337e8f879babd65e0fa77db,Condition=PDAC; ann_fig1B!=Background; >=200 cells/patient; counts and fractions; script30 lines37-39
+S5B_patient_annotation.csv,02_intermediate/fig5_sc/GSE202051_obs.csv.gz,e25f979f9ee71f23730ccae9c581f4168f5787807402bb7ec1adb8e917d1d1a3,"Per-patient modal Tissue/Treatment; GSE202051 Tissue=Pancreas, Treatment=condition; no refitting"
+S5B_patient_annotation.csv,02_intermediate/fig5_sc/GSE205013_obs.csv.gz,f1e59b61a59e65b77d66d0c7c4a88ed46d4c30f31107cda54f3ad32acddcac26,"Per-patient modal Tissue/Treatment; GSE202051 Tissue=Pancreas, Treatment=condition; no refitting"

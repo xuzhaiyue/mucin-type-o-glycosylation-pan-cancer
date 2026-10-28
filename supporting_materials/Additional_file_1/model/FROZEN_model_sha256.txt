@@ -1,0 +1,4 @@
+67f48c019b747f7deefe261b61de7dcf5094414023dcf1247341de9e6f9fa8f4  ${PROJECT_ROOT}/04_results/2026-10-12_Figure4_GALNT_run01/FROZEN_model.rds
+frozen at 2026-10-12 13:34:07
+selected: Uni+CoxBoost
+genes: GALNT16,GALNT14

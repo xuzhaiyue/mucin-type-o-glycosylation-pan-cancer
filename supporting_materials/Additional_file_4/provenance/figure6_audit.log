@@ -1,0 +1,32 @@
+boundary (singular) fit: see help('isSingular')
+boundary (singular) fit: see help('isSingular')
+       gene                model beta_abs_difference p_relative_difference
+     <char>               <char>               <num>                 <num>
+ 1:  GALNT3       acini_collagen        5.012750e-03          4.196353e-01
+ 2:  GALNT3 acini_collagen_depth        2.498002e-16          1.383882e-15
+ 3:  GALNT6       acini_collagen        6.341568e-04          3.255607e-01
+ 4:  GALNT6 acini_collagen_depth        1.110223e-16          8.483180e-16
+ 5:  GALNT4       acini_collagen        4.364907e-04          5.047962e-01
+ 6:  GALNT4 acini_collagen_depth        1.804112e-16          4.091942e-16
+ 7:  GALNT5       acini_collagen        1.453188e-03          2.819375e-01
+ 8:  GALNT5 acini_collagen_depth        4.440892e-16          1.858836e-16
+ 9: GALNT10       acini_collagen        1.134942e-02          6.380131e-01
+10: GALNT10 acini_collagen_depth        4.163336e-17          2.887590e-15
+11: C1GALT1       acini_collagen        9.538334e-03          7.535409e-01
+12: C1GALT1 acini_collagen_depth        2.775558e-17          0.000000e+00
+    matched singular
+     <lgcl>   <lgcl>
+ 1:   FALSE    FALSE
+ 2:    TRUE    FALSE
+ 3:   FALSE    FALSE
+ 4:    TRUE    FALSE
+ 5:   FALSE    FALSE
+ 6:    TRUE     TRUE
+ 7:   FALSE    FALSE
+ 8:    TRUE    FALSE
+ 9:   FALSE    FALSE
+10:    TRUE    FALSE
+11:   FALSE    FALSE
+12:    TRUE    FALSE
+Retained spots: 608 slides: 7 
+Archived numeric fields matched: 84 of 84 

@@ -1,0 +1,13 @@
+file,rows,columns,meaning
+data_dictionary.csv,11,"[""file"", ""rows"", ""columns"", ""meaning""]",Exact source field names; interpretation follows manuscript and attachment guide.
+tables/H8_slide_table.csv,145,"[""cohort"", ""sample"", ""time"", ""event"", ""risk"", ""group"", ""patient"", ""file"", ""dx"", ""gradeg"", ""stageg"", ""tss"", ""tss_grp"", ""n_tiles_total"", ""n_tiles_used"", ""C1"", ""C2"", ""C3"", ""C4"", ""C5"", ""C6""]",Exact source field names; interpretation follows manuscript and attachment guide.
+tables/H8b_baseline_perm_auc.csv,200,"[""pooled_auc""]",Exact source field names; interpretation follows manuscript and attachment guide.
+tables/H8b_oof_predictions.csv,145,"[""patient"", ""y"", ""mil_oof_mean"", ""base_oof_mean"", ""risk""]",Exact source field names; interpretation follows manuscript and attachment guide.
+tables/H8b_perm_auc.csv,100,"[""pooled_auc""]",Exact source field names; interpretation follows manuscript and attachment guide.
+tables/H8c_cluster_by_TSS.csv,9,"[""tss_grp"", ""C1"", ""C2"", ""C3"", ""C4"", ""C5"", ""C6"", ""n""]",Exact source field names; interpretation follows manuscript and attachment guide.
+tables/H8c_r2_tss_vs_giscore.csv,6,"[""cluster"", ""r2_tss"", ""r2_gi""]",Exact source field names; interpretation follows manuscript and attachment guide.
+tables/H8d_CPTAC_cluster_vs_GIScore.csv,6,"[""cluster"", ""mean_frac"", ""rho"", ""p_rho"", ""beta"", ""lo"", ""hi"", ""p_two"", ""p_onesided_neg"", ""bh_two""]",Exact source field names; interpretation follows manuscript and attachment guide.
+tables/H8d_CPTAC_patient_table.csv,140,"[""patient"", ""n_slides"", ""n_tiles"", ""giscore"", ""C1"", ""C2"", ""C3"", ""C4"", ""C5"", ""C6"", ""log_tiles"", ""gi"", ""y""]",Exact source field names; interpretation follows manuscript and attachment guide.
+tables/H8e_CPTAC_predictions.csv,140,"[""patient"", ""giscore"", ""y"", ""mil"", ""base""]",Exact source field names; interpretation follows manuscript and attachment guide.
+tables/H8g_ridge_oof_TCGA.csv,145,"[""patient"", ""y"", ""giscore"", ""ridge_oof_mean""]",Exact source field names; interpretation follows manuscript and attachment guide.
+tables/H8g_ridge_pred_CPTAC.csv,140,"[""patient"", ""giscore"", ""y"", ""ridge""]",Exact source field names; interpretation follows manuscript and attachment guide.

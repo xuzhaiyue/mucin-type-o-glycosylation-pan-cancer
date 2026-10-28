@@ -1,0 +1,53 @@
+group,pathway,np,dir,pct
+Initiation (GALNT),Androgen Response,560,pos,31.0714285714286
+Extension (C1GALT1/C1),Androgen Response,66,pos,30.3030303030303
+Initiation (GALNT),Apical Junction,560,pos,29.1071428571429
+Extension (C1GALT1/C1),Apical Junction,66,pos,1.51515151515152
+Initiation (GALNT),Cholesterol Homeostasis,560,pos,4.46428571428571
+Extension (C1GALT1/C1),Cholesterol Homeostasis,66,pos,3.03030303030303
+Initiation (GALNT),E2F Targets,560,pos,0.892857142857143
+Extension (C1GALT1/C1),E2F Targets,66,pos,1.51515151515152
+Initiation (GALNT),G2M Checkpoint,560,pos,4.64285714285714
+Extension (C1GALT1/C1),G2M Checkpoint,66,pos,1.51515151515152
+Initiation (GALNT),KRAS Signaling Up,527,pos,26.9449715370019
+Extension (C1GALT1/C1),KRAS Signaling Up,66,pos,22.7272727272727
+Initiation (GALNT),Peroxisome,560,pos,8.92857142857143
+Extension (C1GALT1/C1),Peroxisome,66,pos,34.8484848484849
+Initiation (GALNT),Protein Secretion,560,pos,25
+Extension (C1GALT1/C1),Protein Secretion,66,pos,68.1818181818182
+Initiation (GALNT),Spermatogenesis,560,pos,5.53571428571429
+Extension (C1GALT1/C1),Spermatogenesis,66,pos,7.57575757575758
+Initiation (GALNT),Unfolded Protein Response,560,pos,1.42857142857143
+Extension (C1GALT1/C1),Unfolded Protein Response,66,pos,15.1515151515152
+Initiation (GALNT),UV Response DN,560,pos,33.75
+Extension (C1GALT1/C1),UV Response DN,66,pos,9.09090909090909
+Initiation (GALNT),UV Response Up,560,pos,6.42857142857143
+Extension (C1GALT1/C1),UV Response Up,66,pos,1.51515151515152
+Initiation (GALNT),WNT β-Catenin Signaling,560,pos,14.4642857142857
+Extension (C1GALT1/C1),WNT β-Catenin Signaling,66,pos,0
+Initiation (GALNT),Androgen Response,560,neg,-1.07142857142857
+Extension (C1GALT1/C1),Androgen Response,66,neg,0
+Initiation (GALNT),Apical Junction,560,neg,-3.39285714285714
+Extension (C1GALT1/C1),Apical Junction,66,neg,-16.6666666666667
+Initiation (GALNT),Cholesterol Homeostasis,560,neg,-3.03571428571429
+Extension (C1GALT1/C1),Cholesterol Homeostasis,66,neg,-4.54545454545455
+Initiation (GALNT),E2F Targets,560,neg,-13.3928571428571
+Extension (C1GALT1/C1),E2F Targets,66,neg,-3.03030303030303
+Initiation (GALNT),G2M Checkpoint,560,neg,-2.67857142857143
+Extension (C1GALT1/C1),G2M Checkpoint,66,neg,-10.6060606060606
+Initiation (GALNT),KRAS Signaling Up,527,neg,-1.5180265654649
+Extension (C1GALT1/C1),KRAS Signaling Up,66,neg,0
+Initiation (GALNT),Peroxisome,560,neg,-5.35714285714286
+Extension (C1GALT1/C1),Peroxisome,66,neg,-3.03030303030303
+Initiation (GALNT),Protein Secretion,560,neg,-1.07142857142857
+Extension (C1GALT1/C1),Protein Secretion,66,neg,0
+Initiation (GALNT),Spermatogenesis,560,neg,-5.35714285714286
+Extension (C1GALT1/C1),Spermatogenesis,66,neg,0
+Initiation (GALNT),Unfolded Protein Response,560,neg,-5.35714285714286
+Extension (C1GALT1/C1),Unfolded Protein Response,66,neg,-1.51515151515152
+Initiation (GALNT),UV Response DN,560,neg,-0.892857142857143
+Extension (C1GALT1/C1),UV Response DN,66,neg,-1.51515151515152
+Initiation (GALNT),UV Response Up,560,neg,-4.82142857142857
+Extension (C1GALT1/C1),UV Response Up,66,neg,0
+Initiation (GALNT),WNT β-Catenin Signaling,560,neg,-5.71428571428571
+Extension (C1GALT1/C1),WNT β-Catenin Signaling,66,neg,-33.3333333333333

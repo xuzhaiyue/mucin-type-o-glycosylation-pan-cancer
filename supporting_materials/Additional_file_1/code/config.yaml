@@ -1,0 +1,21 @@
+run_date: '2026-10-13'
+project_root_environment: PROJECT_ROOT
+output_directory: 06_reports/2026-10-13_JTM_supplementary_package
+external_sources:
+  refA_table: ${PDAC_CAF_CHEMO_ROOT}/runs/2026-03-19_refA_tme/tables/TME_umap_table.tsv.gz
+  refA_marker_dots: ${PDAC_CAF_CHEMO_ROOT}/runs/2026-03-19_refA_tme/figures/ad4_dotplot_ann_fig1B.tsv
+  panin_root: ${PANIN_ROOT}
+frozen_model_change_allowed: false
+frozen_figure_change_allowed: false
+original_run_environment_recovered: false
+figure6_audit:
+  retained_spots: 608
+  slides: 7
+  grade: normal=0, low_grade=1, high_grade=2
+  model: expression ~ grade + acini + collagen + log10(library_UMI) + (1|slide)
+  estimation: REML
+  p_value: two-sided Satterthwaite t test
+  numeric_comparison_relative_tolerance: 1.0e-10
+  status: audit reconstruction; original generating command not recovered
+file_size_limit_bytes: 20000000
+repository_publication_authorized: false

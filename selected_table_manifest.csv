@@ -1,0 +1,56 @@
+package,source,rows,columns,selection_reason
+Additional_file_1,Additional_file_1/tables/Figure1/C_mutation_frequency_by_cancer.csv,704,5,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/tables/Figure1/D_tumor_vs_normal_combined.csv,572,10,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/tables/Figure2/B_hallmark_landscape.csv,1100,4,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/tables/Figure2/C_top_pathways_by_group.csv,52,5,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/tables/Figure2/F_strong_pairs_per_cancer.csv,33,6,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/tables/Figure3_GALNT/B_enzyme_logFC_shown.csv,198,5,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/tables/Figure3_GALNT/C_kegg_ora_shown.csv,180,6,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/tables/Figure3_GALNT/cluster_survival_summary.csv,33,13,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/tables/Figure3_GALNT/confounder_cluster_association.csv,22,5,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/tables/Figure3_GALNT/confounder_cox.csv,10,12,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/tables/Figure7/H7f_detectability.csv,22,7,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/tables/Figure7/H7f_section_group_means.csv,21,12,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/tables/Figure7/H7f_colocalization_frozen_all_spot.csv,66,9,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/tables/Figure7/H7f_epithelial_niche_frozen_all_spot.csv,69,9,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/tables/Figure7/H7f_lesion_axis_Elhossiny_frozen_all_spot.csv,3,12,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/tables/Figure7/H7f_lesion_axis_Elhossiny_posthoc_epithelial.csv,8,12,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/figure6_audit/figure6_all_fields_comparison.csv,84,7,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/figure6_audit/figure6_adjusted_model_comparison.csv,12,17,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_1,Additional_file_1/figure6_audit/figure6_reconstructed_robustness.csv,6,15,"Selected concise summary/source table supporting Figure 1–4, 6, and 7 results; detailed records remain in the repository."
+Additional_file_3,Additional_file_3/tables/A_cells_per_lineage.csv,25,3,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/A_dotplot_data.csv,525,6,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/B_fig1B_GALNT14_16_dots.csv,38,7,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/B_malignant_vs_nonmalignant.csv,6,8,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/B_pseudobulk_CRA001160.csv,49,74,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/B_pseudobulk_GSE202051.csv,66,74,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/C_giscore_vs_subtype.csv,9,7,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/C_malignant_pseudobulk_CRA001160.csv,24,76,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/C_malignant_pseudobulk_GSE202051.csv,38,76,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/C_malignant_pseudobulk_GSE205013.csv,27,77,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/C_patient_proportions_GSE205013.csv,27,10,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/D_state_pseudobulk_GSE205013.csv,120,6,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/E_composition_vs_giscore.csv,9,6,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/F_treatment.csv,6,8,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/G_primary_vs_liver.csv,3,8,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/H_tcga_composition_adjusted_cox.csv,5,6,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/H_tcga_composition_correlations.csv,18,5,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_3,Additional_file_3/tables/S5D_RefA_patient_proportions.csv,423,5,Selected concise summary/source table supporting Figure 5 and S2 results; detailed records remain in the repository.
+Additional_file_4,Additional_file_4/tables/H1_all_gene_trend.csv,22,6,Selected concise summary/source table supporting Figure 6 and 7 results; detailed records remain in the repository.
+Additional_file_4,Additional_file_4/tables/H1_grade_contrasts.csv,6,5,Selected concise summary/source table supporting Figure 6 and 7 results; detailed records remain in the repository.
+Additional_file_4,Additional_file_4/tables/H1_panin_enzymes_robustness.csv,6,15,Selected concise summary/source table supporting Figure 6 and 7 results; detailed records remain in the repository.
+Additional_file_4,Additional_file_4/tables/H1_slide_means.csv,15,6,Selected concise summary/source table supporting Figure 6 and 7 results; detailed records remain in the repository.
+Additional_file_4,Additional_file_4/tables/H1_spots_used.csv,608,13,Selected concise summary/source table supporting Figure 6 and 7 results; detailed records remain in the repository.
+Additional_file_4,Additional_file_4/tables/H1_trend_mixed_model.csv,6,5,Selected concise summary/source table supporting Figure 6 and 7 results; detailed records remain in the repository.
+Additional_file_4,Additional_file_4/tables/H2_all_gene_trend.csv,20,4,Selected concise summary/source table supporting Figure 6 and 7 results; detailed records remain in the repository.
+Additional_file_4,Additional_file_4/tables/H2_epithelial_pseudobulk_scores.csv,20,10,Selected concise summary/source table supporting Figure 6 and 7 results; detailed records remain in the repository.
+Additional_file_4,Additional_file_4/tables/H2_GL_vs_PD_paired.csv,3,4,Selected concise summary/source table supporting Figure 6 and 7 results; detailed records remain in the repository.
+Additional_file_4,Additional_file_4/tables/H2_normal_vs_tumor.csv,3,6,Selected concise summary/source table supporting Figure 6 and 7 results; detailed records remain in the repository.
+Additional_file_4,Additional_file_4/tables/H2_trend.csv,3,5,Selected concise summary/source table supporting Figure 6 and 7 results; detailed records remain in the repository.
+Additional_file_5,Additional_file_5/tables/H8b_baseline_perm_auc.csv,200,1,Selected concise summary/source table supporting Figure 8 results; detailed records remain in the repository.
+Additional_file_5,Additional_file_5/tables/H8b_oof_predictions.csv,145,5,Selected concise summary/source table supporting Figure 8 results; detailed records remain in the repository.
+Additional_file_5,Additional_file_5/tables/H8b_perm_auc.csv,100,1,Selected concise summary/source table supporting Figure 8 results; detailed records remain in the repository.
+Additional_file_5,Additional_file_5/tables/H8c_cluster_by_TSS.csv,9,8,Selected concise summary/source table supporting Figure 8 results; detailed records remain in the repository.
+Additional_file_5,Additional_file_5/tables/H8c_r2_tss_vs_giscore.csv,6,3,Selected concise summary/source table supporting Figure 8 results; detailed records remain in the repository.
+Additional_file_5,Additional_file_5/tables/H8d_CPTAC_cluster_vs_GIScore.csv,6,10,Selected concise summary/source table supporting Figure 8 results; detailed records remain in the repository.
+Additional_file_5,Additional_file_5/tables/H8e_CPTAC_predictions.csv,140,5,Selected concise summary/source table supporting Figure 8 results; detailed records remain in the repository.

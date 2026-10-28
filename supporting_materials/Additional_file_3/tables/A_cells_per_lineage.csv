@@ -1,0 +1,26 @@
+cohort,lineage,n_cells
+GSE202051,Malignant epithelial,64538
+GSE202051,CAF/fibroblast,54935
+GSE202051,Non-malignant epithelial,38208
+GSE202051,Endothelial,17175
+GSE202051,Pericyte/SMC,16490
+GSE202051,Myeloid,11938
+GSE202051,Endocrine,9801
+GSE202051,T/NK/B (lymphoid),9523
+GSE205013,Malignant epithelial,67521
+GSE205013,T/NK,57145
+GSE205013,Myeloid,30510
+GSE205013,CAF/fibroblast,13170
+GSE205013,B/Plasma,6575
+GSE205013,Endothelial,4569
+GSE205013,Pericyte/SMC,1526
+GSE205013,Acinar,473
+CRA001160,CAF/fibroblast,12649
+CRA001160,Malignant epithelial,11315
+CRA001160,Non-malignant epithelial,10317
+CRA001160,Endothelial,9117
+CRA001160,Myeloid,5361
+CRA001160,T/NK,3660
+CRA001160,B/Plasma,2447
+CRA001160,Acinar,1935
+CRA001160,Endocrine,729

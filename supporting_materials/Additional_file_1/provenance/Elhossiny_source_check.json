@@ -1,0 +1,8 @@
+{
+  "source": "https://zenodo.org/records/21867195",
+  "file": "pseudobulk_epi.rds",
+  "md5": "c3470573e9af37fb593fbb13eee7beae",
+  "source_deposit_md5_match": true,
+  "local_path": "${PANIN_ROOT}/01_raw/Elhossiny2026_processed/pseudobulk_epi.rds",
+  "sha256": "acbfebd63867ea3c7966e866a2648d93021eccf5054777c029e7b3915bff9c88"
+}

@@ -1,0 +1,9 @@
+{
+  "mapping": {
+    "historical_S4": "submission_S1",
+    "historical_S5": "submission_S2",
+    "historical_S6": "submission_S3",
+    "historical_S8": "submission_S4"
+  },
+  "frozen_originals_modified": false
+}

@@ -1,0 +1,12 @@
+dataset,source_url,role,access
+GSE62452,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE62452,Survival validation,Public source archive; original article annotations and processing apply
+GSE57495,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE57495,Survival validation,Public source archive; original article annotations and processing apply
+GSE85916,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE85916,Survival validation,Public source archive; original article annotations and processing apply
+GSE202051,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202051,Single-cell/spatial context,Public source archive; original article annotations and processing apply
+GSE205013,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205013,Single-cell/spatial context,Public source archive; original article annotations and processing apply
+GSE254829,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE254829,Single-cell/spatial context,Public source archive; original article annotations and processing apply
+CRA001160,https://ngdc.cncb.ac.cn/gsa/browse/CRA001160,Single-cell context,Public source archive
+TCGA / MC3 / TCGA-GTEx Toil,https://xenabrowser.net/datapages/,"Expression, mutations, phenotype and normal-tissue comparison",Public Xena hubs; local file names listed in code
+CPTAC / LinkedOmics,https://www.linkedomics.org/,Protein comparisons and CPTAC-PDA RNA,Public tables; no controlled raw data are redistributed
+Elhossiny processed spatial objects v3,https://doi.org/10.5281/zenodo.21867195,Visium spatial.rds and pseudobulk_epi.rds,Public author deposit; source MD5 checks below
+UNI2-h pretrained features,https://huggingface.co/datasets/MahmoodLab/UNI2-h-features,H&E embeddings,Gated institutional registration and acceptance of CC-BY-NC-ND-4.0 terms; features are not redistributed

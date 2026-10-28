@@ -1,0 +1,20 @@
+{
+ "TSS_macroAUC_fold_mean": 0.9705028305028305,
+ "grade_fold_auc_mean": 0.625079365079365,
+ "GI_TSSstratified_fold_auc_mean": 0.6455488139311669,
+ "GI_TSSstratified_pooled_auc": 0.6227168949771689,
+ "leave_site_out": {
+  "IB": {
+   "n": 38,
+   "auc": 0.6164772727272727
+  },
+  "HZ": {
+   "n": 22,
+   "auc": 0.8035714285714286
+  },
+  "FB": {
+   "n": 16,
+   "auc": 0.5166666666666667
+  }
+ }
+}
